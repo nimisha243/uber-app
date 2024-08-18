@@ -1,5 +1,5 @@
 # Uber Like Android App
-Building a ride-sharing Android Taxi Clone App like Uber, 
+Building a ride-sharing Android Taxi Clone App like Uber
 
 
 </p>
@@ -7,10 +7,10 @@ Building a ride-sharing Android Taxi Clone App like Uber,
 
 ## About me
 
-Hi, I am Nimisha Kumari, currently working on this project that uses Beckn Protocol.
+Hi, I am Nimisha Kumari, currently working on building Uber like ridesharing app using Beckn Protocol.
 .
 
-## following for the App like Uber:
+## following for the App:
 * Create Rider Android Clone App
 * Fetch and show nearby cabs on Google Map
 * Set Pickup and drop location
